@@ -6,7 +6,7 @@ The tasks are stored in a json file called **tasks.json**
 
 ## Commands
 
-| command          |          args          |                          description                          |
+| COMMAND          |          ARGS          |                         DRESCRIPTION                          |
 | ---------------- | :--------------------: | :-----------------------------------------------------------: |
 | --help / -h      |           -            |          Show all the commands and how to use them.           |
 | --version / -v   |           -            |                     Version of the tool.                      |
