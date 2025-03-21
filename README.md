@@ -2,6 +2,8 @@
 
 Hi! This program is a **CRUD CLI Tool** wich will help you manage tasks.
 
+The tasks are stored in a json file called **tasks.json**
+
 ## Commands
 
 | command          |          args          |                          description                          |
@@ -23,7 +25,7 @@ Hi! This program is a **CRUD CLI Tool** wich will help you manage tasks.
 
 `$ tasks add "New Task"`
 
-This will output
+This will output:
 
 `$ Task added successfully (ID: 1)`
 
