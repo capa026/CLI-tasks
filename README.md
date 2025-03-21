@@ -1,6 +1,6 @@
 # Tasks manager **CLI Tool**
 
-Hi! This program is a **CRUD CLI Tool** wich will help you manage tasks.
+Hi! This program is a **CRUD CLI Tool** wich will help you manage tasks. Written in vanilla **Javascript** using **Node.js** with Zero Dependencies.
 
 The tasks are stored in a json file called **tasks.json**
 
