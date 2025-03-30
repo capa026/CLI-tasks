@@ -30,3 +30,6 @@ This will output:
 `$ Task added successfully (ID: 1)`
 
 If there is no **tasks.json** archive, the add command will create it.
+
+### Project URL
+https://github.com/capa026/CLI-tasks
